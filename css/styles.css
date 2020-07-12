@@ -47,6 +47,9 @@ img {
 .project {
   font-size: 24px;
   padding: 10px;
+  border-bottom: 6px; border-bottom-style: solid;
+  border-bottom-color: purple;
+  
 }
 #footer {
   color: purple;
@@ -60,9 +63,9 @@ img {
   color: black
 }
 .part1 {
-  
+  overflow: auto;
+  background-color: palegoldenrod;
+  border-style: solid;
+  border-radius: 8px;
+  padding: 8px;
 }
-  
-
-
-
