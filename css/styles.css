@@ -57,8 +57,11 @@ img {
   text-align: center;
 }
 #last {
-  color: blue;
+  color: black
   text-indent: 1%;
+}
+#color {
+  color: black
 }
   
 
