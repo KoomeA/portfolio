@@ -8,7 +8,6 @@
   padding: 5px;
   border: transparent;
   width: auto;
-
 }
 .title {
   color: blueviolet;
@@ -17,7 +16,6 @@
 }
 body {
   background-color: darkgrey
-  
 }
 .profile {
   font-size: medium;
@@ -29,7 +27,6 @@ body {
   background-color: cornsilk;
   margin: 20px;
   height: 20%;
- 
 }
 img {
   width: 240px;
@@ -46,7 +43,6 @@ img {
   font-size: 36px;
   text-indent: 1%;
   color: blue;
-  
 }
 .project {
   font-size: 24px;
@@ -62,6 +58,9 @@ img {
 }
 #color {
   color: black
+}
+.part1 {
+  
 }
   
 
