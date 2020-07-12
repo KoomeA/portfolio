@@ -14,4 +14,4 @@ To access the portfolio, follow this link [link](https://koomea.github.io/portfo
 
 ### Link to live site: [My Portfolio](koomea.github.io/portfolio/)
 
-### Licence [MIT]()
+### Licence [MIT](https://raw.githubusercontent.com/KoomeA/portfolio/master/LICENCE)
